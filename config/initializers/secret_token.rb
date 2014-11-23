@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-SpykeballApi::Application.config.secret_token = '2a9430b9be59b328450fe824e03ae11d2b6be2c755a24c5c492481225605564eebc5d490fcadf7a12958a71a51257e1510788aecf5bceb88947b3f00b648d472'
+Spikeball::Application.config.secret_token = '6e3b40233da166bbe8ded88c4a4f12845f389e1a90d5cd6b6a7af10441ec1e4e95c7fa83603b5f4a766be59e3128074ab19ecf2f1c42dfafd5abdbfdfa6b0b93'
